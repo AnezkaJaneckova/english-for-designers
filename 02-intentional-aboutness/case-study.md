@@ -30,6 +30,6 @@ When I had a complete a prepare information. I stared a designed a poster. I tri
 
 
 ## THE FINAL RESULT
-<img alt = "Alt text goes." src= "./img/Isotype-final-poster.jpg">
+<img alt = "Alt text goes." src= "./img/Final-poster.png">
 
 ---
