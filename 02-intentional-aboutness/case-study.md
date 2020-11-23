@@ -16,6 +16,7 @@ When I knew what is Isotype. Next step was what topic will I do. The main idea o
 So, the next step on this work was a detailed analysis and research about How many sells new and used cars in the Czech Republic. 
 It was most difficult because it was a lack of information about them. 
 I searched for information for one week from the internet, of many different sources of information.
+
 ##### Example of sources.
 <img alt = "Alt text goes." src= "./img/Examples-sources.png">
 
@@ -29,7 +30,7 @@ When I had a complete a prepare information. I stared a designed a poster. I tri
 
 
 
-## THE FINAL RESULT
+# THE FINAL RESULT
 <img alt = "Alt text goes." src= "./img/Final-poster.png">
 
 ---
