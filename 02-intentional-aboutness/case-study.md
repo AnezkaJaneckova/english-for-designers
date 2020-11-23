@@ -25,7 +25,7 @@ The main idea of a poster shows a difference between how many sell used cars and
 When I had a complete a prepare information. I stared a designed a poster. I tried many options. But only one was perfect. 
 
 ##### Sample poster versions.
-<img alt = "Alt text goes." src= "./img/Isotype-posters.png">
+<img alt = "Alt text goes." src= "./img/Samples-posters.png">
 
 
 
