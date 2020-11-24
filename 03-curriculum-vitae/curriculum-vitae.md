@@ -61,6 +61,6 @@ Field: Graphic design
 + Project for Sazka company (2019)
 + Design of Lang Lang CD (2019)
 
-## From MICHAEL - High School :
+### From MICHAEL - High School :
 + Graduation thesis on the topic: "Destiny's eights" – Posters and logo for the 100th anniversary of the founding of Czechoslovakia (2018)
 + Visual identity for School Sight (2017)
