@@ -13,6 +13,7 @@ Also, I enjoy playing golf, movies, sewing, drawing, painting, and travelling wi
 ### SKILLS:
 + ADOBE CREATIVE CLOUDS – Adobe Illustrator, Adobe Photoshop, Adobe Indesign, Adobe After Effects, Adobe XD
 + MS – Office Word, Excel, PowerPoint
++ Drawing, Illustration, Painting, Typography, Photographing
 
 I enjoy designing visual identities, logos, posters, animated GIFs, and I’m not afraid to learn new things actually, I prefer new challenges.
 
