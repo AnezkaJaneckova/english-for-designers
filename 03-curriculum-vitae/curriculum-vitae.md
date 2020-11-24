@@ -16,14 +16,14 @@ I enjoy designing visual identities, logos, posters, animated GIFs, and I’m no
 #### EDUCATION
 ##### 2018 – 2021
 + University of Creative Communication (UCC), Prague 4
-Graphic and Media Design
+**Field:** Graphic and Media Design
 
 ##### 2014 - 2018
 + MICHAEL - High School and College advertising and artistic creation, Ltd.
-Field: Graphic design
+**Field:** Graphic design
 
-##### 2010 – 
-
+##### 2010 – 2013
++ Elementary Art School South City
 
 ##### 2005 - 2014
 + Elementary school and kindergarten Chodov, Prague 4, Květnového vítězství 57
