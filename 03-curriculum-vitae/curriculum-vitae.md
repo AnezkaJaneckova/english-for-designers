@@ -41,12 +41,13 @@ I enjoy designing visual identities, logos, posters, animated GIFs, and I’m no
 + Visual identity of STC CREW (Car tunning crew)
 
 ### From University of Creative Communication:
++ Artwork <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/01-character-description/character-description.md">**"Letter A"**</a> (2020)
 + Political poster of my opinon about Black lives matter (All lives matter) (2020)
 + Book typesetting and book cover series (2020)
 + Posters for BOLLYWOOD festival in Prague. (2020)
 + Visual identity of Combster (logo) (2020)
 + Project for competison tourist logo (2019)
-+ Poster of Isotype (Infographic) (2019) <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/02-intentional-aboutness/case-study.md">**"How many sells new and used automobiles in the Czech Republic."**</a>
++ Poster of Isotype (Infographic) <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/02-intentional-aboutness/case-study.md">**"How many sells new and used automobiles in the Czech Republic."**</a> (2019)
 + Poster for Postherodes competision (Topic: Opinion on immigrants)
 + "Selfie" project (2019)
 + "Cilkulátor" competison – Visual identity for Crazy Paws (Pet Supplies)
