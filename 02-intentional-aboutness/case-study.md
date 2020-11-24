@@ -8,7 +8,7 @@ Isotype (International System of Typographic Picture Education) is a method of s
 
 Simply, it is a pictorial language that everyone understands, no matter where we come from or what we do.
 
-##### Example of Isotypes posters. 
+##### *Example of Isotypes posters.*
 <img alt = "Alt text goes." src= "./img/Examples-of-Isotype.png">
 
 When I knew what is Isotype. Next step was what topic will I do. The main idea of the project, I got it, when I was in a traffic jam. I asked myself. „Why doing again to me? „ „Where are all the cars going?“  „Why there are so many cars? „  After this, I got an idea. My topic of ISOTYPE poster will be about How many sells new and used automobiles in the Czech Republic. 
@@ -17,7 +17,7 @@ So, the next step on this work was a detailed analysis and research about How ma
 It was most difficult because it was a lack of information about them. 
 I searched for information for one week from the internet, of many different sources of information.
 
-##### Example of sources.
+##### *Example of sources.*
 <img alt = "Alt text goes." src= "./img/Examples-sources.png">
 
 
@@ -25,7 +25,7 @@ The main idea of a poster shows a difference between how many sell used cars and
 
 When I had a complete a prepare information. I stared a designed a poster. I tried many options. But only one was perfect. 
 
-##### Sample poster versions.
+##### *Sample poster versions.*
 <img alt = "Alt text goes." src= "./img/Samples-posters.png">
 
 
