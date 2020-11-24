@@ -40,7 +40,8 @@ I enjoy designing visual identities, logos, posters, animated GIFs, and I’m no
 + Script rate for University of Creative Communication (2019 – 2020)
 + Visual identity of STC CREW (Car tunning crew)
 
-### From University of Creative Communication:
+### School projects:
+#### From University of Creative Communication:
 + Artwork <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/01-character-description/character-description.md">**"Letter A"**</a> (2020)
 + Political poster of my opinon about Black lives matter (All lives matter) (2020)
 + Book typesetting and book cover series (2020)
@@ -55,13 +56,13 @@ I enjoy designing visual identities, logos, posters, animated GIFs, and I’m no
 + Logo for Blanka Matragi (famous fashion designer) (2018)
 + Visual identity for BOOK KAFE (2018)
 
-#### TEAM WORKS:
+##### TEAM WORKS:
 + Project of infographic – "Influences of childhood" (2020)
 + Project of competison "Vize 0" (2020)
 + Visual Identity of Kolínské limonády (Koli limonades) (2019 – 2020)
 + Project for Sazka company (2019)
 + Design of Lang Lang CD (2019)
 
-### From MICHAEL - High School :
+#### From MICHAEL - High School :
 + Graduation thesis on the topic: "Destiny's eights" – Posters and logo for the 100th anniversary of the founding of Czechoslovakia (2018)
 + Visual identity for School Sight (2017)
