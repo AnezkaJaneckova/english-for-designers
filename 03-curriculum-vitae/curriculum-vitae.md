@@ -1,5 +1,5 @@
 # Hi, I'm Anežka Janečková
-### **In English it is Agnes, but I prefer Ann or Annie.**
+### **In English it is Agnes, Ann or Annie. :)**
 I’m a creative designer who is interested in photography, graphic design, typography, and a little bit of advertising and marketing. 
 I live in Prague, the capital city of the Czech Republic. 
 
