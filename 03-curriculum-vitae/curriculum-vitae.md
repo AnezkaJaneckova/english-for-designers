@@ -33,7 +33,7 @@ I enjoy designing visual identities, logos, posters, animated GIFs, and I’m no
 ---
 # MY PROJECTS & WORKS:
 
-### From my graphic project & works: Individual tasks:
+### My graphic project & works: Individual tasks:
 + Visual identity of Doubravská stavební (construction company from Prague) + New Year greetings for years 2019, 2020, (2021)
 + Infographic and posters for Tenis Měchenice 
 + New Year greetings for Tesla company (Gifs)
