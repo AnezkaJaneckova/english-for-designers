@@ -37,9 +37,10 @@ I enjoy designing visual identities, logos, posters, animated GIFs, and I’m no
 # MY PROJECTS & WORKS:
 
 ### My graphic project & works: Individual tasks:
-+ Visual identity of Doubravská stavební (construction company from Prague) + New Year greetings for years 2019, 2020, (2021)
-+ Infographic and posters for Tenis Měchenice 
-+ New Year greetings for Tesla company (Gifs)
++ Visual identity of Doubravská stavební (construction company from Prague)
++ New Year greetings for Doubravská stavební and Geobet, years 2019, <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/03-curriculum-vitae/img/DS.gif">**2020**</a>, (2021) 
++ New Year greetings for Tesla company 2019, 2020 (Gifs)
++ Infographic and posters for Tenis Měchenice (2019 – 2020)
 + Script rate for University of Creative Communication (2019 – 2020)
 + Visual identity of STC CREW (Car tunning crew)
 
