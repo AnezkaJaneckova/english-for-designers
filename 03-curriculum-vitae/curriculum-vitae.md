@@ -7,6 +7,9 @@ I live in Prague, the capital city of the Czech Republic.
 I’m a dog lover, food lover, beer lover, and cars lover. 
 Also, I enjoy playing golf, movies, sewing, drawing, painting, and travelling with my boyfriend and dog.
 
+### Contact:
+**E-mail:** janeckovaanezka@gmail.com
+
 ### SKILLS:
 + ADOBE CREATIVE CLOUDS – Adobe Illustrator, Adobe Photoshop, Adobe Indesign, Adobe After Effects
 + MS – Office Word, Excel, PowerPoint
