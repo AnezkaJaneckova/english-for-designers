@@ -7,7 +7,7 @@ I live in Prague, the capital city of the Czech Republic.
 I’m a dog lover, food lover, beer lover, and cars lover. 
 Also, I enjoy playing golf, movies, sewing, drawing, painting, and travelling with my boyfriend and dog.
 
-### Contact:
+### Contact me :)
 **E-mail:** janeckovaanezka@gmail.com
 
 ### SKILLS:
