@@ -1,6 +1,6 @@
 ##### Chapter IV. #####
-# COPYING - IS IT GOOD OR NOT? 
-# IT DEPENDS ON THE ANGLE OF VIEW. #
+# COPYING - IS IT GOOD OR BAD? 
+# IT DEPENDS ON THE POINT OF VIEW. #
 
 Everyone is copying. We are inspired by things around us. With things that someone else invented. We do not do it intentionally, we do it automatically and subconsciously. We start copying in our childhood when we imitate our parents. We copy how they speak and behave. We want to be like them and they are the first people who we look up to like idols. Copying is learning.
 
