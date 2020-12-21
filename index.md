@@ -2,6 +2,10 @@
 + <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/02-intentional-aboutness/about.md">**About**</a>
 
 ## Work ##
++ Semester takeaway
+
++ Presentation
+
 + <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/04-voice-tone/04-chapter-IV.md">**Voice and tone**</a>
 
 + <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/03-curriculum-vitae/curriculum-vitae.md">**Curriculum vitae**</a>
