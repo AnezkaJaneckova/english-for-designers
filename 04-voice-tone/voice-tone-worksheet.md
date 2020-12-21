@@ -1,0 +1,6 @@
+## Writing Style ##
+
+
+## Voice ##
+
+## Tone ##
