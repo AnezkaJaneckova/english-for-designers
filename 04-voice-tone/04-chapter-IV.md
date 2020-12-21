@@ -16,7 +16,7 @@ I still copy his drawings today, and I like to remember my childhood times.
 <img alt = "Alt text goes." src= "./img/Josef Lada English.png">
 
 ### WHEN IS COPYING IS BAD? ###
-On the other hand, my opinion is that copying is a bad thing when we shamelessly steal something from someone and consider it our work or masterpiece. Once we do that, we should admit what our inspiration was. It is a shame when we do not admit it and pretend it is our work. People will figure it out anyway. They are not stupid and only you will look like an idiot. For example, when Disney stolen artwork by Katie Woodger.
+On the other hand, my opinion is that copying is a bad thing when we shamelessly steal something from someone and consider it our work or masterpiece. Once we do that, we should admit what our inspiration was. It is a shame when we do not admit it and pretend it is our work. People will figure it out anyway. They are not stupid and only you will look like an idiot. For example, when Disney has stolen artwork by Katie Woodger.
 
 <img alt = "Alt text goes." src= "./img/Disney.png">
 
