@@ -27,7 +27,7 @@ I enjoyed it because I learned new things. Making ceramics. Creating lithography
 
 
 I liked a drawing at school in art lessons. It was my favourite subject at school. When I was in 4th grade, we had a bad teacher at the art lesson, didn't like her and she didn't like me. But she very loved it my works when We had the task to draw half of the painting. And I chose artwork by Josef Lada. Because he was my childhood idol in art. I enjoyed that. 
-<img alt = "Alt text goes." src= "./img/Josef Lada English.png ">
+<img alt = "Alt text goes." src= "./img/Josef Lada English.png">
 
 
 When I was twelve years old, one day my dad brought home a graphic tablet. I had to try it. So I started drawing in a computer program "Malování" by Microsoft with this tablet. And this was maybe the first sign of my beginnings in Graphic design.
