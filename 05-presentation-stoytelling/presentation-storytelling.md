@@ -15,17 +15,19 @@ My story has the three most important chapters. There are:
 When I was a child, I very liked art and drawing and painting. 
 
 <img alt = "Alt text goes." src= "./img/Kresby.png">
-It very looks like, when Optimus prime, from transformers, has a hangover. And the dog doesn't look like a dog, just like a deer.
+<p> It very looks like, when Optimus prime, from transformers, has a hangover. And the dog doesn't look like a dog, just like a deer. </p>
 
 Also, I liked to take photos from holidays and trips. Because my grandfather liked to take photos to. And sometimes, we took photos together. 
-
 My best photo, when I made it in childhood, is a photo of my younger brother Thomas. 
+<img alt = "Alt text goes." src= "./img/P1000886.JPG">
 
 Also, I visited an art lesson on Elementary Art School South City for five years.
 I enjoyed it because I learned new things. Making ceramics. Creating lithography. Painting with watercolours and drawing with pastels. It was my favourite technic in art.
 <img alt = "Alt text goes." src= "./img/Art school.png">
 
+
 I liked a drawing at school in art lessons. It was my favourite subject at school. When I was in 4th grade, we had a bad teacher at the art lesson, didn't like her and she didn't like me. But she very loved it my works when We had the task to draw half of the painting. And I chose artwork by Josef Lada. Because he was my childhood idol in art. I enjoyed that. 
+<img alt = "Alt text goes." src= "./img/Josef Lada English.png ">
 
 
 When I was twelve years old, one day my dad brought home a graphic tablet. I had to try it. So I started drawing in a computer program "Malování" by Microsoft with this tablet. And this was maybe the first sign of my beginnings in Graphic design.
@@ -46,6 +48,7 @@ So, I did it. I went this high school.
 The High School pointed out, what it is a graphic design, showed me a new direction of art. I painted according to still lifes. 
 I learned to work with Adobe programs.  I grew up. I started it, more interest in graphic design. 
 <img alt = "Alt text goes." src= "./img/Kresby Střední.png"> 
+
 <img alt = "Alt text goes." src= "./img/AdobeHs.png">
 
 I found new idols and artists, for example, Andy Warhol and his pop art style. Also now, I like copying his style. František Štrorm in typography. Pavel Fuksa, And other designers. 
