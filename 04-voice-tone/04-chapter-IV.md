@@ -8,7 +8,7 @@ We are copying because we want to be better, develop and try new things. Maybe w
 
 <img alt = "Alt text goes." src= "./img/Vin.png">
 
-When I was a child, I didnť like copying or when anyone was copying from each other, like  monkeying (Czech expression), because I thought it was a bad thing. Those around me made fun of me. But now, when I am older and smarter, I found out that we copy for personal reasons, such as exploring the work of our idols. In graphic design, it is an important method to help us improve our skills.
+When I was a child, I didn’t like copying or when anyone was copying from each other, like  monkeying (Czech expression), because I thought it was a bad thing. Those around me made fun of me. But now, when I am older and smarter, I found out that we copy for personal reasons, such as exploring the work of our idols. In graphic design, it is an important method to help us improve our skills.
 
 I started copying when I first started to learn how to draw and paint. I remember how I was drawing illustrated characters from my favourite fairytales with my grandmother. The cartoons I copied the most were by Josef Lada. He was and still is my favourite artist. Josef Lada was a Czech painter, illustrator, cartoonist, writer and stage designer. He was a pioneer of the Czech comic book tradition and founder of the “Czech modern fairytale” genre. He also created the legendary Mikes character. At elementary school I enjoyed copying his style in art lessons when we had the task to draw half of the painting by Josef Lada. I liked his style and his illustrations. I wanted to be like him at least in part. I still copy his drawings today, and I like to remember my childhood times. Already when I was in elementary school. I enjoyed copying his characteristic style on art class when we had the task to draw half of the painting by Josef Lada. I like his style and his illustrations. I wanted to be like him at least in part. 
 I still copy his drawings today, and I like to remember my childhood times.
@@ -16,7 +16,7 @@ I still copy his drawings today, and I like to remember my childhood times.
 <img alt = "Alt text goes." src= "./img/Josef Lada English.png">
 
 ### WHEN IS COPYING IS BAD? ###
-On the other hand, my opinion is that copying is a bad thing when we shamelessly steal something from someone and consider it our work or masterpiece. Once we do that, we should admit what our inspiration was. It is a shame when we do not admit it and pretend it is our work. People will figure it out anyway. They are not stupid and only you will look like an idiot. For example, when Disney has stolen artwork by Katie Woodger.
+On the other hand, my opinion is that copying is a bad thing when we shamelessly steal something from someone and consider it our work or masterpiece. Once we do that, we should admit what our inspiration was. It is a shame when we do not admit it and pretend it is our work. People will figure it out anyway. They are not stupid and only you will look like an idiot. For example, when Disney has stolen artwork by Katie Woodger.
 
 <img alt = "Alt text goes." src= "./img/Disney.png">
 
