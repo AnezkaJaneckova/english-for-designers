@@ -12,8 +12,8 @@ My bachelor's thesis is about rebranding the existing brand for a gastro client 
 ---
 
 ### Voice & Tone ###
-Voice: 
-Tone: 
+**Voice:** 
+**Tone:** 
 
 ### Outline ###
 1. Have an interview with a client. Find out his main idea and purpose of his business, how and why he founded the Malý Janek brand and its history.
