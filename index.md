@@ -8,6 +8,9 @@
 + <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/04-voice-tone/04-chapter-IV.md">**Voice and tone**</a>
 + <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/06-semester-takeaways/06-semester-takeaways.md">**Semester takeaway**</a>
 + <a href="https://github.com/AnezkaJaneckova/english-for-designers/tree/main/05-presentation-stoytelling">**Presentation storytelling**</a>
++ <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/06-clarity-first/thesis-outline.md">**Clarity first**</a>
++ <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/07-abstract-draft/abstract-draft.md">**Abstract draft**</a>
++ <a href="https://github.com/AnezkaJaneckova/english-for-designers/blob/main/08-summary-details/summary-details.md">**Summary details**</a>
 
 ---
 <a href="https://github.com/AnezkaJaneckova/english-for-designers">Home</a>
