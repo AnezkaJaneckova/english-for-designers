@@ -21,7 +21,6 @@ From the beginning of the 16th century. the village was owned by the Zeman famil
 <img alt = "Alt text goes." src= "./img/zamek-Jince.png">
 
 In connection with the sale in 1648, the brewery is located again, located opposite the Jinec fortress, which in the middle of the 14th century. owned by Bořita Bořitovec from Jinec. Under the lords of Mitrovice, the original Gothic and later partially renaissance fortress was rebuilt into a representative chateau. The manorial brewery, which was expanded at the same time, also changed.
-<img alt = "Alt text goes." src= "./img/jince1.png">
 
 In 1772, the second brewery building was built at the mill drive. Brewery cellars from the original brewery continued to be used. From the end of the 18th century. the brewery was leased to Jinka brewers.
 
@@ -29,6 +28,7 @@ In 1806, Jince Rudolf of Vrbno and Bruntál bought it and annexed it to the Hoř
 
 In 1852, the manor of Hessen, Friedrich Vilém I, took over the manor. In 1883, the brewery was leased by Antonín Šilinger, a brewer from neighbouring Lochovice, under whose influence the level and production of beer increased rapidly. The subsequent modernization carried out by Antonín Šilinger mainly affected the brewery and increased its content to 40 hl. A new forest was built at the malting plant and the old brewery became a barn serving as a warehouse. Towards the end of the 19th century. reached annual beer exhibitions of more than 10,000 hl per year.
 After the untimely death of Antonín Šilinger, several breweries took turns in the brewery, and before the First World War, the annual exhibitions reached about 14,000 hl.
+<img alt = "Alt text goes." src= "./img/jince1.png">
 
 During the war, there was a significant decline, but already in 1921, the brewery was bought from Jindřich Hanau-Schaumburg by Šilinger's son Jaroslav. He used the knowledge gained from studies in the field and previous practice and equipped the brewery with the latest technologies. This created a small but modernly conceived and technically highly valued company.
 During World War II, Jince was already part of the military area used by the German army. Its members became important customers of the local beer, which caused the Jinec brewery to prosper even during the war.
