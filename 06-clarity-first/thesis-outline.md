@@ -5,15 +5,16 @@ My bachelor's thesis is about rebranding the existing brand for a gastro client 
 ---
 <details>
   <summary>Mind Map</summary>
-
-![](/img/thesis-mind-map.jpg)
+<img alt = "Alt text goes." src= "./img/Mindmap.png">
+  
 </details>
 
 ---
 
 ### Voice & Tone ###
-**Voice:** 
-**Tone:** 
+**Voice:** Friendly, creative
+
+**Tone:** Humorous, Formal, Family
 
 ### Outline ###
 1. Have an interview with a client. Find out his main idea and purpose of his business, how and why he founded the Malý Janek brand and his history.
