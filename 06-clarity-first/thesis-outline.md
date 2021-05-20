@@ -1,4 +1,4 @@
-# Visual communication for a client of the gastronomy industry #
+# VISUAL COMMUNICATION FOR A CLIENT OF THE GASTRONOMY INDUSTRY #
 
 My bachelor's thesis is about rebranding the existing brand for a gastro client who is Malý Janek (Small Janek) brewery in Jince. My goal is to create a new visual style, identity and marketing communication and strategy. But also focus on the issue of promotion and visual identities of companies in the gastronomy industry.
 
